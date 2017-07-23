@@ -3,7 +3,7 @@ class SumFunction():
 
     def do_add_one(self, x):
        new_x = x+1
-       print 'x value: ' + str(new_x)
+       print 'x value:' + str(new_x)
        return new_x
        
         
