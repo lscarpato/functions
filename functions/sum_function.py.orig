@@ -1,0 +1,15 @@
+
+class SumFunction():
+
+    def do_add_one(self, x):
+       new_x = x+1
+<<<<<<< HEAD
+       print 'x value: fabio' + str(new_x)
+=======
+       print 'x value: teste2' + str(new_x)
+>>>>>>> adjusting print
+       return new_x
+       
+        
+
+
